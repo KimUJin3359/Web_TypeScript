@@ -52,20 +52,28 @@
   - 다른 변수형에서도 마찬가지로 대/소문자 구분 필수
 
 #### TypeScript 실습
->> [1. TypeScript 클래스 선언](https://github.com/KimUJin3359/Web_Typescript/blob/master/004.typescript_basic.ts)
->> [2. JavaScript 트랜스파일링 결과](https://github.com/KimUJin3359/Web_Typescript/blob/master/004.typescript_basic.js)
 - 개발 시 유의사항
   - JavScript파일은 건들지 않음
   - TypeScript만으로 개발 및 수정, 유지보수 진행
+>> [1. TypeScript 클래스 선언](https://github.com/KimUJin3359/Web_Typescript/blob/master/004.typescript_basic.ts)
+
+>> [2. JavaScript 트랜스파일링 결과](https://github.com/KimUJin3359/Web_Typescript/blob/master/004.typescript_basic.js)
 
 >> [3. Method 만들기](https://github.com/KimUJin3359/Web_Typescript/blob/master/005.typescript_method.ts)
+
 >> [4. Type 선언 연습](https://github.com/KimUJin3359/Web_Typescript/blob/master/006.type_declare.ts)
+
 >> [5. 함수 선언식과 함수 표현식 연습](https://github.com/KimUJin3359/Web_Typescript/blob/master/007.function_declare.ts)
+
 >> [6. if 구문](https://github.com/KimUJin3359/Web_Typescript/blob/master/010.if.ts)
+
 >> [7. for 구문](https://github.com/KimUJin3359/Web_Typescript/blob/master/011.for.ts)
+
 >> [8. array 사용](https://github.com/KimUJin3359/Web_Typescript/blob/master/012.array.ts)
+
 >> [9. function 사용](https://github.com/KimUJin3359/Web_Typescript/blob/master/013.function.ts)
 
 #### HTML 파일에 JS파일 삽입
 >> [1. JavaScript로 구현](https://github.com/KimUJin3359/Web_Typescript/blob/master/008.insert_js.js)
+
 >> [2. TypeScript를 JavaScript로 트랜스파일링 했을 경우](https://github.com/KimUJin3359/Web_Typescript/blob/master/009.insert_ts.ts)
